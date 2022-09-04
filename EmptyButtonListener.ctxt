@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EmptyButtonListener
+comment0.text=\r\n\ \ |-----------------------------------------------------------|\r\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ EmptyButtonListener\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\ \ |-----------------------------------------------------------|\r\n\ \ |\ \ \ \ \ \ Responsibilities\ \ \ \ \ \ \ \ \ |\ \ \ Collaborating\ Classes\ \ \ |\r\n\ \ |-------------------------------+---------------------------|\r\n\ \ |\ listen\ for\ button\ press\ \ \ \ \ \ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ EmptyButton\ \ \ \ \ \ \ \ \ \ \ |\r\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\ \ |\ change\ values\ of\ button\ \ \ \ \ \ \ |\ \ \ \ \ \ \ GameView\ \ \ \ \ \ \ \ \ \ \ \ |\r\n\ \ |\ and\ text\ fields\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\ \ |-------------------------------+---------------------------|\r\n
+comment1.params=game\ button
+comment1.target=EmptyButtonListener(GameView,\ EmptyButton)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

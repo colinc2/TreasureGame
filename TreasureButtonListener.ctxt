@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TreasureButtonListener
+comment0.text=\r\n\ \ |-----------------------------------------------------------|\r\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ TreasureButtonListener\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\ \ |-----------------------------------------------------------|\r\n\ \ |\ \ \ \ \ \ Responsibilities\ \ \ \ \ \ \ \ \ |\ \ \ Collaborating\ Classes\ \ \ |\r\n\ \ |-------------------------------+---------------------------|\r\n\ \ |\ listen\ for\ button\ press\ \ \ \ \ \ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ TreasureButton\ \ \ \ \ \ \ \ |\r\n\ \ |\ show\ "$"\ when\ clicked.\ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\ \ |\ change\ values\ of\ button\ \ \ \ \ \ \ |\ \ \ \ \ \ \ GameView\ \ \ \ \ \ \ \ \ \ \ \ |\r\n\ \ |\ and\ text\ fields\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\ \ |-------------------------------+---------------------------|\r\n
+comment1.params=game\ button
+comment1.target=TreasureButtonListener(GameView,\ TreasureButton)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

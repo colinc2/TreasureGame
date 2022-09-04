@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TreasureButton
+comment0.text=\r\n\ \ |-----------------------------------------------------------|\r\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ TreasureButton\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\ \ |-----------------------------------------------------------|\r\n\ \ |\ \ \ \ \ \ Responsibilities\ \ \ \ \ \ \ \ \ |\ \ \ Collaborating\ Classes\ \ \ |\r\n\ \ |-------------------------------+---------------------------|\r\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ TreasureButtonListener|\r\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ EmptyButton\ \ \ \ \ \ \ \ \ |\r\n\ \ |\ \ \ class\ for\ the\ TreasureButton|\ \ \ \ \ \ \ \ GameView\ \ \ \ \ \ \ \ \ \ \ |\r\n\ \ |\ \ \ object\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\ \ |-------------------------------+---------------------------|\r\n\r\n
+comment1.params=
+comment1.target=TreasureButton()
+comment2.params=
+comment2.target=void\ showButton()
+comment3.params=
+comment3.target=boolean\ isTreasure()
+comment4.params=
+comment4.target=boolean\ isTroll()
+numComments=5
